@@ -1,0 +1,11 @@
+@import url('https://fonts.googleapis.com/css2?family=Neonderthaw&display=swap');
+
+.logo {
+    font-family: 'Neonderthaw', cursive;
+
+    font-size: 7rem;
+    color: #fff;
+    text-shadow: 0 0 10px #00fff9, 0 0 20px #00fff9, 0 0 30px #00fff9;
+    text-align: center;
+    margin: auto;
+}

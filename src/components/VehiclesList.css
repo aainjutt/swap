@@ -1,0 +1,25 @@
+
+
+.vehicles-list {
+  margin: 20px;
+  color: white;
+}
+
+table {
+  width: 100%;
+  border-collapse: collapse;
+  margin-top: 20px;
+}
+
+th,
+td {
+  border: 1px solid #dddddd;
+  text-align: left;
+  padding: 8px;
+}
+
+th {
+  background-color: #001529;
+}
+
+/* Add more styles as needed */
