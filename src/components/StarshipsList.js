@@ -43,10 +43,10 @@ function StarshipsList() {
             </tr>
           </thead>
           <tbody>
-            {starshipsData.map((vehicle, index) => (
+            {starshipsData.map((starships, index) => (
               <tr key={index}>
-                <td>{vehicle.name}</td>
-                <td>{vehicle.model}</td>
+                <td>{starships.name}</td>
+                <td>{starships.model}</td>
                 {/* Add more table cells for other properties if needed */}
               </tr>
             ))}
